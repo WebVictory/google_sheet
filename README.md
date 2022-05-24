@@ -44,3 +44,5 @@
 отдельная командная строка 4 в паке с проектом
 
 `celery -A google_sheet  worker --loglevel=debug --concurrency=4`
+
+Ссылка на документ excel https://docs.google.com/spreadsheets/d/1DgxlpfIAQCXdpNX9-_YWgeCz9HumXEAKPyeQYcwsJ7o/edit#gid=0
